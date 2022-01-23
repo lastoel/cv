@@ -47,16 +47,16 @@ Aside
 ================================================================================
 
 
-![picture](aug 2020.jpg){width=100%}
+![picture](ToekomstHO.jpg){width=100%}
 
 Contact {#contact}
 --------------------------------------------------------------------------------
 
 
 
-- <i class="fa fa-envelope"></i> lastoel@gmail.com
+- <i class="fa fa-envelope"></i> [lastoel@gmail.com](lastoel@gmail.com)
 - <i class="fa fa-github"></i> [github.com/lastoel](github.com/lastoel)
-- <i class="fa fa-link"></i> [nickstrayer.me](http://nickstrayer.me/)
+- <i class="fa fa-link"></i> [laukestoel.netlify.app](https://laukestoel.netlify.app/)
 
 
 
@@ -73,12 +73,6 @@ Language Skills {#skills}
 ```{r}
 build_skill_bars(Langskills)
 ```
-
-
-More info {#more-info}
---------------------------------------------------------------------------------
-
-See full CV at nickstrayer.me/cv for more complete list of positions and publications.
 
 
 Disclaimer {#disclaimer}

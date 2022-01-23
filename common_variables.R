@@ -11,7 +11,10 @@ I started my masters degree in 2020, moving to part-time employment at NRO. Now,
 Progskills <- tribble(
   ~skill,               ~level,
   "R",                  4.5,
-  "Python",             3
+  "Python",             3,
+  "LaTeX",              4, 
+  "MPlus",              3, 
+  "HTML",               3
 )
 
 #Language skills
