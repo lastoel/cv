@@ -107,7 +107,7 @@ position_data %>% print_section('education')
 ```
 
 
-Selected Positions {data-icon=suitcase}
+Positions {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
 ```{r}
@@ -128,7 +128,7 @@ Research Contributions {data-icon=laptop}
 position_data %>% print_section('research')
 ```
 
-Selected Writing {data-icon=newspaper}
+Writing {data-icon=newspaper}
 --------------------------------------------------------------------------------
 
 ```{r}
